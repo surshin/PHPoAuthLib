@@ -1,5 +1,5 @@
 {
-    "name": "lusitanian/oauth",
+    "name": "surshin/oauth",
     "description": "PHP 5.3+ oAuth 1/2 Library",
     "keywords": ["oauth", "authentication", "authorization", "security"],
     "license": "MIT",
@@ -15,6 +15,11 @@
         {
             "name": "Elliot Chance",
             "email": "elliotchance@gmail.com"
+        },
+        {
+            "name": "surshin",
+            "email": "morita_shinobu@sur.co.jp",
+            "role": "Developer"
         }
     ],
     "require": {
